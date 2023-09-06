@@ -1,2 +1,2 @@
-# What is it?:
+# WHAT IS THIS:
 This is the Calibration used during the data recording all sequences in the [EDS dataset](https://rpg.ifi.uzh.ch/eds.html#dataset). The results are obtained with Kalibr and are given in yaml, txt and pdf format.  The file with han_eye_camx.yaml are the inputs files for the han-eye calibration. You don't need to use them the file camera.txt is the calibration in DSO format for the RGB camera
